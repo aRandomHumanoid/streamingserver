@@ -146,4 +146,3 @@ Use HTTPS (cert.pem/key.pem) or a trusted HTTPS fronting approach, then reopen t
 ## Project Files
 
 - server.js: unified server for RTMP and WebRTC modes
-- otherserver.js: older standalone WebRTC variant (kept for reference)
